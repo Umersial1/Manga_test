@@ -1,0 +1,8 @@
+{
+  "name": "MangaNexus Pro",
+  "description": "A high-density, professional-grade manga and manhwa platform featuring advanced filtering, real-time updates, and AI-powered recommendations using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
